@@ -1,4 +1,4 @@
-# <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello everyone!👋 I'm Javier.
+# <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello everyone! I'm Javier.
 <img align="right" width="350" alt=GIF src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I/" />
 
 <div align-"left">
