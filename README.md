@@ -3,7 +3,7 @@
 
 <div align="left">
 <p>
-I’m a full-stack developer and NLP engineer with a background in the arts and humanities. I design end-to-end solutions for text analysis and research infrastructures—bridging language, culture, and AI through scalable tools for complex linguistic data.
+I’m a full-stack developer, data scientist, and NLP engineer with a background in the arts and humanities. I design end-to-end solutions for text analysis and research infrastructures—bridging language, culture, and AI through scalable tools for complex linguistic data.
 </p>
 <p>I care about thoughtful tech: clean code, open science, and digital tools that serve both people and knowledge.</p>
 <p>Always learning. Always building. Let’s create something meaningful. 🚀✨</p>
